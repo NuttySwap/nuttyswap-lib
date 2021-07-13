@@ -10,7 +10,7 @@ const overrides = {
   gasLimit: 9999999,
 }
 
-const example = 'TESTING_CONTRACT_ADDRESS';
+const example = '0xC257274276a4E539741Ca11b590B9447B26A8051';
 
 describe('AddressStringUtil', () => {
   const provider = new MockProvider({
